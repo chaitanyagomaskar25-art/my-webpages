@@ -1,0 +1,143 @@
+*{
+    padding: 0px;
+    margin:0px;
+    text-decoration:none;
+}
+details{
+    background-image: url("https://plus.unsplash.com/premium_photo-1676478746990-4ef5c8ef234a?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Zmxvd2Vyc3xlbnwwfHwwfHx8MA%3D%3D");
+    background-size: cover;
+    color: rgb(46, 9, 82);
+    text-align: center;
+}
+table{
+    display: inline-block;
+    border-collapse: collapse;
+    margin: 70px;
+    width: 350px;
+    text-align: center;
+   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFXMVsqeqstL0GCNxoVwhjfqmumLoghY4ywQ&s;);
+
+    color:white;
+    border: 2px solid white;
+}
+
+fieldset{
+    background-color: rgb(71, 219, 170);
+    border: 2px solid black;
+    width: 50%;
+}
+legend{
+    color: black;
+    font-size: x-large;
+}
+pre{
+    font-family: 'Times New Roman', Times
+}
+svg{
+    border:10px solid blue;
+    background-color: rgb(23, 131, 23);
+    margin-left: 450PX;
+}
+header,footer{
+     background-image: url("https://plus.unsplash.com/premium_photo-1676478746990-4ef5c8ef234a?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Zmxvd2Vyc3xlbnwwfHwwfHx8MA%3D%3D");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 80px;
+
+    
+}
+ 
+main{
+    background-color: rgb(206, 192, 192);
+}
+figure{
+    border: 4px solid black;
+    width: 400px;
+    margin-left: 400px;
+    ;
+}
+figcaption{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+button{
+    width: 80px;
+    background-color: black;
+    padding: 10px;
+    margin-left: 10px;
+}
+#top{
+    color: white;
+    text-decoration: white wavy underline ;
+    
+}
+#marksheet{
+    text-align: center;
+    font-weight: 600;
+    font-size: 30px;
+}
+.img{
+    color:rgb(15, 0, 0);
+    font-size: 20px;
+    text-transform: uppercase;
+    margin-left: 600px;
+
+}
+video{
+    border: 10px solid black;
+    
+}
+
+iframe{
+    margin-left: 350px;
+}
+#map{
+    text-align: center;
+}
+form{
+    margin-left: 400px;
+    
+}
+div{
+    padding-left: 20px;
+}
+#clickableimg{
+    margin-left: 350px;
+}
+#footer{
+    font-size: larger;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 50px;
+    
+}
+
+.heading{
+    font-weight: bold;
+}
+h2{
+      font-size: 40px;
+}
+.header{
+    list-style-type:none;
+    color:purple;
+}
+mark{
+    background-color: gray;
+}
+marquee{
+    font-size: 60px;}
+#frame{
+    background-color: rgb(223, 218, 218);
+}
+#firstimg{
+    height: 300px;
+    width: 300px;
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
